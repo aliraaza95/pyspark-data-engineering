@@ -1,0 +1,55 @@
+# Editors
+.idea/
+.vscode/
+
+# Environment Variables
+.env
+.env.*
+
+# Environments
+.venv/
+ENV/
+env/
+venv/
+
+# Generated Outputs
+data/processed/
+outputs/
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Packaging
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Python
+*$py.class
+*.py[cod]
+__pycache__/
+
+# Spark
+derby.log
+metastore_db/
+spark-warehouse/
+
+# Temporary Files
+temp/
+tmp/
+
+# Tooling
+.coverage
+.mypy_cache/
+.pyre/
+.pytest_cache/
+htmlcov/
